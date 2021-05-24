@@ -1,0 +1,12 @@
+title: Chari's Shitblog
+description: Shitty code and more
+
+author: Chari
+email: chari69@protonmail.com
+github_username: ChariArch
+
+timezone: America/Caracas
+
+theme: minima
+plugins:
+  - jekyll-feed
